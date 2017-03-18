@@ -1,5 +1,5 @@
 # Bungo-chat-data
-文豪チャット(http://www.vector.co.jp/soft/winnt/amuse/se515415.html)　専用のファイルのうち、青空文庫から作成したファイルです。
+文豪チャット(http://www.vector.co.jp/soft/winnt/amuse/se515415.html )専用のファイルのうち、青空文庫から作成したファイルです。
 ソースはこちら
 (https://github.com/sakurakitten/Bungo-chat ）
 
